@@ -1,0 +1,21 @@
+.collapse{
+	background-color: blue;
+}
+.navbar .navbar-default{
+	border-radius: 0;
+}
+
+#filler{
+	height: 9000px
+	background-color: blue;
+	overflow-x: hidden;
+	overflow-y: initial;
+
+}
+.pre{
+	
+    word-break: normal;
+    white-space: nowrap;
+    overflow-x: hidden;
+    border: 0;
+}
